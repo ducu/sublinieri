@@ -1,0 +1,10 @@
+---
+date: 2019-07-14
+source: Aldous Huxley — Ape and Essence
+---
+
+Progress and Nationalism -- those were the two great ideas He put into their heads.
+
+<!-- more -->
+
+Progress -- the theory that you can get something for nothing; the theory that you can gain in one field without paying for your gain in another; the theory that you alone understand the meaning of history; the theory that you know what's going to happen fifty years from now; the theory that, in the teeth of all experience, you can foresee all the consequences of your present actions; the theory that Utopia lies just ahead and that, since ideal ends justify the most abominable means, it is your privilege and duty to rob, swindle, torture, enslave and murder all those who, in your opinion (which is, by definition, infallible), obstruct the onward march to the earthly paradise. Remember that phrase of Karl Marx's: 'Force is the midwife of Progress.' He might have added -- but of course Belial didn't want to let the cat out of the bag at that early stage of the proceedings -- that Progress is the midwife of Force. Doubly the midwife, for the fact of technological progress provides people with the instruments of ever more indiscriminate destruction, while the myth of political and moral progress serves as the excuse for using those means to the very limit. I tell you, my dear sir, an undevout historian is mad. The longer you study modern history, the more evidence you find of Belial's Guiding Hand." The Arch-Vicar makes the sign of the horns, refreshes himself with another drink of wine, then continues. "And then there was Nationalism -- the theory that the state you happen to be subject to is the only true god, and that all other states are false gods; that all these gods, true as well as false, have the mentality of juvenile delinquents; and that every conflict over prestige, power or money is a crusade for the Good, the True and the Beautiful. The fact that such theories came, at a given moment of history, to be universally accepted is the best proof of Belial's existence, the best proof that at long last He'd won the battle.

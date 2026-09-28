@@ -1,0 +1,10 @@
+---
+date: 2020-04-13
+source: Erwin Schrödinger — What Is Life?
+---
+
+The discovery of chromosomes as the decisive factors in heredity seems to have given society the right to overlook other better-known but equally important factors such as communication, education and tradition. It is assumed that these were not so important because from the point of view of genetics they are not stable enough. This is quite true.
+
+<!-- more -->
+
+However, there are cases such as that of Kaspar Hauser, for example, and that of a small group of Tasmanian ‘Stone Age’ children who were only recently brought to live in English surroundings and granted a first-class English upbringing, with the effect that they reached the educational level of upper-class Englishmen. Does this not prove to us that it takes both a code of chromosomes and civilized human surroundings to produce people of our kind? In other words, the intellectual level of every individual is bred by ‘nature’ and by ‘nurture’. Schools are therefore (not as our Empress Maria Theresa liked to see it) invaluable for human guidance, and much less for political purposes. And a sound family background is just as important for preparing the soil for the seed the schools will sow. This is unfortunately a fact overlooked by those who claim that only the children of the less educated should attend schools for higher education (will their children be excluded for the same reasons?) and also by British High Society, where it is deemed upper class to replace family life by boarding school and considered a sign of nobility to leave home early. So even the present Queen had to part with her first-born and send him to such an institution. None of this is strictly speaking any of my concern. It only came to my mind when I once again realized how much I gained from the time I spent with my father as a young boy and how little I would have profited from school had he not been there. He actually knew far more than they had to offer, not because he had been forced to study it thirty years earlier, but because he was still interested. If I went into detail here, I should end up telling a long story.

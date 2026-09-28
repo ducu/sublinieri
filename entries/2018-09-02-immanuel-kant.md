@@ -1,0 +1,13 @@
+---
+date: 2018-09-02
+source: Immanuel Kant — Întemeierea metafizicii moravurilor
+intro: Încă una de la Kant, despre moralitatea populară 😂
+---
+
+Această coborâre la nivelul conceptelor populare este, firește, foarte lăudabilă dacă a fost precedată de înălțarea la principiile rațiunii pure într-un mod complet satisfăcător; cu alte cuvinte, dacă doctrina moravurilor este întemeiată mai întâi pe metafizică, iar apoi, după ce a fost fundamentată solid, i se procură acces prin popularizare. Este însă cu totul absurd să vrem să fim pe placul popularizării în această primă cercetare de care depinde întreaga corectitudine a principiilor de bază.
+
+<!-- more -->
+
+Nu numai că acest mod de a proceda nu poate pretinde niciodată meritul, foarte rar, al unei adevărate popularizări filosofice, întrucât nu este nicio ispravă să te faci înțeles de toată lumea atunci când renunți la orice efort de scrutare temeinică, dar totodată el scoate la iveală un amestec dezgustător de observații compilate și de principii semisofisticate, cu care se desfată capetele seci fiindcă le sunt folositoare pentru pălăvrăgeala lor zilnică, pe când cei cu mintea pătrunzătoare simt confuzia și își întorc privirea nemulțumiți, fără să poată ieși din impas; iar filosofii, care văd foarte bine dincolo de această iluzie, găsesc puțină ascultare atunci când ne abat temporar de la așa-zisa popularizare pentru ca să putem deveni pe drept cuvânt populari abia după ce am dobândit o cunoaștere profundă a lucrurilor.
+
+Nu trebuie decât să privim eseurile despre moralitate alcătuite în acest stil îndrăgit pentru a întâlni când menirea specifică a naturii umane (dar uneori și ideea unei naturi raționale în genere), când perfecțiunea, când fericirea, aici sentimentul moral, colo frica de Dumnezeu, câte ceva și de ici și de colo într-un amestec uimitor, fără ca acelora care procedează astfel să le treacă prin minte să se întrebe dacă principiile moralității chiar trebuie să fie căutate întotdeauna în cunoașterea naturii umane (pe care o putem avea numai din experiență), iar, în condițiile în care lucrurile nu stau așa – aceste principii găsindu-se cu totul a priori, independent de tot ceea ce este empiric, doar în conceptele pure ale rațiunii și nicăieri altundeva, nici în cea mai mică măsură – dacă nu este cazul să ia mai degrabă în considerare o separare completă a acestei cercetări ca filosofie practică pură sau (dacă este îngăduit să folosim un nume atât de hulit) ca metafizică a moravurilor și să o desăvîrșească pentru ea însăși, iar până la încheierea acestui demers să liniștească publicul care cere popularizare.

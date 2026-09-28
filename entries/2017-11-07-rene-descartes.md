@@ -1,0 +1,18 @@
+---
+date: 2017-11-07
+source: René Descartes — Discurs despre metoda de a ne conduce bine rațiunea și a căuta adevărul în științe
+---
+
+Rațiunea este lucrul cel mai bine rînduit din lume: căci fiecare se consideră atît de bine înzestrat, încît chiar cei greu de mulțumit în orice altă privință nu doresc să aibă mai mult decît au.
+
+<!-- more -->
+
+Nu este posibil ca toți să se înșele; aceasta dovedește mai curînd că aptitudinea de a judeca bine și de a distinge adevărul de fals, adică ceea ce numim bunul simț sau rațiunea este în mod firesc aceeași la toți oamenii; iar diversitatea opiniilor nu provine din faptul că unii sînt mai înțelepți decît alții, ci doar din aceea că gîndirea urmează căi diferite și nu ne referim la aceleași lucruri. Căci nu e suficient să ai spirit fin, important este să-l utilizăm bine. Chiar și cei mai înzestrați pot avea și cele mai mari vicii și cele mai mari virtuți; cei care pășesc mai încet, pot totuși să înainteze, dacă urmează calea potrivită, spre deosebire de cei care aleargă și astfel se îndepărtează de ea.
+
+În ceea ce mă privește n-am pretins niciodată că spiritul meu ar fi mai desăvîrșit decît cel al majorității oamenilor; ba mai mult, am dorit adesea să am gîndirea la fel de ageră, imaginația la fel de clară și distinctă, iar memoria la fel de bogată și activă cum le au unii. În afara acestora nici nu cunosc alte calități care să contribuie la desăvîrșirea spiritului; căci rațiunea sau bunul simț, care este singurul lucru care ne definește ca oameni și ne distinge de animale, vreau să cred că ea este aceeași la toți; în aceasta urmez opinia comună filosofilor care susțin că nu există diferențe decît între accidente și nicidecum între formele sau naturile indivizilor unei aceeași specii.
+
+Dar nu mă voi teme să afirm că am avut marea șansă de a fi găsit încă din tinerețe anumite căi ce m-au condus la considerațiile și maximele din care mi-am alcătuit o metodă cu ajutorul căreia mi se pare că îmi pot îmbogăți treptat cunoașterea și pot atinge nivelul la care mediocritatea spiritului și durata scurtă a vieții îmi permit să ajung. Chiar și în ceea ce privește propria mea apreciere înclinînd mai degrabă spre neîncredere decît spre orgoliu, consider a fi dobîndit anumite rezultate. Privind cu ochi de filosof diversele acțiuni și realizări ale oamenilor, aproape toate mi se par deșarte și nu mă pot stăpîni să nu încerc o mare satisfacție în ceea ce privește progresul obținut de mine în cercetarea adevărului; pentru viitor sper că acest drum ales este dintre toate preocupările omului ca om cel cu adevărat important.
+
+S-ar putea totuși să mă înșel și să iau drept aur și diamante ceea ce poate că nu este decît aramă și sticlă. Știu cît suntem expuși să ne înșelăm în tot ceea ce ne privește direct și cît trebuie să fim de circumspecți cînd judecățile prietenilor sînt în favoarea noastră. Doresc să arăt în acest discurs care sunt căile pe care le-am urmat și să îmi înfățișez viața ca într-un tablou, pe care fiecare să îl poată aprecia; din aceste opinii voi obține un nou mijloc de a mă instrui, pe care îl voi adăuga celor folosite de obicei.
+
+Astfel intenția mea nu este de a expune metoda pe care fiecare ar trebui să o urmeze pentru a-și călăuzi bine rațiunea, ci doar de a arăta în ce fel mi-am călăuzit-o pe a mea. Cei care se încumetă să ofere precepte se consideră mai capabili decît cei cărora li se adresează, iar dacă greșesc sînt de condamnat. Dar nepropunînd această scriere decît ca o povestire sau, dacă preferați, ca o fabulă ale cărei exemple pot fi urmate, dar și ignorate, sper că voi fi util unora și nu voi dăuna nimănui și în acest fel toți îmi vor fi recunoscători pentru sinceritatea mea.
