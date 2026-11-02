@@ -9,7 +9,7 @@
 <meta name="description" content="Citate de carte adunate din activitatea mea de pe Facebook, {{FIRST_YEAR}}–{{LAST_YEAR}}." />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;1,9..144,400;1,9..144,500&family=Merriweather:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@1,6..96,400..700&family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;1,9..144,400;1,9..144,500&family=Merriweather:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
   :root {
     --paper: #ffffff;
@@ -87,21 +87,14 @@
     margin: 0 0 14px;
   }
   h1 {
-    font-family: var(--font-display);
-    font-optical-sizing: auto;
+    font-family: 'Bodoni Moda', 'Didot', Georgia, serif; font-variation-settings: 'opsz' 18;
     font-weight: 500;
-    font-style: italic;
     font-size: clamp(2.6rem, 9vw, 4rem);
     line-height: 0.98;
     margin: 0 0 18px;
     text-wrap: balance;
   }
-  .underline-title {
-    text-decoration: underline;
-    text-decoration-color: var(--accent);
-    text-decoration-thickness: 0.05em;
-    text-underline-offset: 0.14em;
-  }
+  h1 .title { font-style: italic; }
   .dek {
     font-family: var(--font-sans);
     font-size: 15px;
@@ -438,7 +431,7 @@
 <div class="page">
   <header class="masthead">
     <img class="avatar" src="avatar.jpg" alt="" width="48" height="48">
-    <h1>✍🏻 <span class="underline-title">Sublinieri</span></h1>
+    <h1>✍🏻 <span class="title">Sublinieri</span></h1>
     <p class="dek">Citate de carte pe care le-am postat pe Facebook de-a lungul anilor, arhivate aici.</p>
   </header>
   <div class="year-nav-sticky">
